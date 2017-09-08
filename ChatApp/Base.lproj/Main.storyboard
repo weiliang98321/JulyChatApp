@@ -40,7 +40,7 @@
                                 <rect key="frame" x="313" y="617" width="46" height="30"/>
                                 <state key="normal" title="Button"/>
                             </button>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Ucd-ZS-QmU">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Message Here" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Ucd-ZS-QmU">
                                 <rect key="frame" x="16" y="617" width="296" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="296" id="eYe-Q1-4fA"/>
