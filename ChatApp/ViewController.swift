@@ -14,10 +14,15 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         loadChat()
+        loadChatRoomDetails()
     }
     
     func loadChat() {
         print("Loading chat...")
+    }
+    
+    func loadChatRoomDetails() {
+        print("Load Chat Room Details")
     }
 
     override func didReceiveMemoryWarning() {
