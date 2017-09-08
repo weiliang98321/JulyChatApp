@@ -13,12 +13,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        loadChat()
+        loadChatRoomDetails()
         
     }
     
-    func loadChat() {
-        print("Loading Chat....")
+    func loadChatRoomDetails() {
+        print("Load Chat Room Details")
     }
 
     override func didReceiveMemoryWarning() {
