@@ -13,6 +13,7 @@
 		C0F9D28C1F623E0000095BA0 /* ChatApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C0F9D28A1F623E0000095BA0 /* ChatApp.xcdatamodeld */; };
 		C0F9D28E1F623E0000095BA0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0F9D28D1F623E0000095BA0 /* Assets.xcassets */; };
 		C0F9D2911F623E0000095BA0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0F9D28F1F623E0000095BA0 /* LaunchScreen.storyboard */; };
+		C0F9D2991F62440000095BA0 /* Auth.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0F9D2981F62440000095BA0 /* Auth.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C0F9D28D1F623E0000095BA0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0F9D2901F623E0000095BA0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0F9D2921F623E0000095BA0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0F9D2981F62440000095BA0 /* Auth.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Auth.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C0F9D2831F623E0000095BA0 /* AppDelegate.swift */,
 				C0F9D2851F623E0000095BA0 /* ViewController.swift */,
 				C0F9D2871F623E0000095BA0 /* Main.storyboard */,
+				C0F9D2981F62440000095BA0 /* Auth.storyboard */,
 				C0F9D28D1F623E0000095BA0 /* Assets.xcassets */,
 				C0F9D28F1F623E0000095BA0 /* LaunchScreen.storyboard */,
 				C0F9D2921F623E0000095BA0 /* Info.plist */,
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0F9D2991F62440000095BA0 /* Auth.storyboard in Resources */,
 				C0F9D2911F623E0000095BA0 /* LaunchScreen.storyboard in Resources */,
 				C0F9D28E1F623E0000095BA0 /* Assets.xcassets in Resources */,
 				C0F9D2891F623E0000095BA0 /* Main.storyboard in Resources */,
@@ -305,6 +309,7 @@
 				C0F9D2971F623E0000095BA0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
